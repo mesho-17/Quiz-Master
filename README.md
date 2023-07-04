@@ -1,4 +1,4 @@
-# Quizer
+# Quizer 
 Host an online quiz or Capture The Flag Competition with just python and some dependencies installed!
 
 ![Imgur](https://i.imgur.com/QTvaWDE.png) 
@@ -29,7 +29,7 @@ Once you have the website running, signup a new user named `admin`, and click on
 	4. Stats
 3. Protection against SQLi, Cross-Site Request Forgery and Cross-Site scripting 
 
-## More Images!!
+## More Images!! 
 
 ![Imgur](https://i.imgur.com/JJMAUHg.png) 
 ![Imgur](https://i.imgur.com/VdzWnQy.png)

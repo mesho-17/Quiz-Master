@@ -8,7 +8,8 @@ from alert import AlertType as at
 from functools import wraps
 import pygal
 import datetime
-import os 
+import os
+
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///{}".format("{}{}".format(os.popen("pwd").read()[:-1], "/databases/users.db"))
